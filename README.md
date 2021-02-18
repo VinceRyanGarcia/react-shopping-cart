@@ -128,9 +128,9 @@ const { products, addItem } = useContext(ProductContext);
 
 **STEP 7 - The final stretch**
 
-- Our cart data is now being provided to us from our `CartContext` time to consume it!
+- [x]Our cart data is now being provided to us from our `CartContext` time to consume it!
 
-- First, let's head to our `ShoppingCart` component and import the `useContext` hook and our `CartContext`.
+- [x]First, let's head to our `ShoppingCart` component and import the `useContext` hook and our `CartContext`.
 
 - Now in the component, pass `CartContext` to the `useContext` hook and assign it to a variable named cart.
 
