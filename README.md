@@ -52,9 +52,9 @@ Before you get started, please take a few minutes and get acquainted with this a
 
 **STEP 3 - Providing data with ProductContext**
 
-- Now that we've created our `ProductContext` we can import into our `App.js`. Now we can start providing data across our application!
+- [x]Now that we've created our `ProductContext` we can import into our `App.js`. Now we can start providing data across our application!
 
-- Wrap all of your components/routes in `App.js` inside of `ProductContext.Provider` component.
+- [x] Wrap all of your components/routes in `App.js` inside of `ProductContext.Provider` component.
 
 - Next pass a value prop to your `Provider`.
 
